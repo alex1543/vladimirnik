@@ -9,3 +9,7 @@ Personal Page Vladimir Nikitin
 Гостевая книга:
 
 ![image](https://user-images.githubusercontent.com/10297748/155694073-e44a8cde-fdf9-4090-b17c-58ee8d0ac679.png)
+
+Главная страница сайта:
+
+![image](https://user-images.githubusercontent.com/10297748/155694345-35dc6442-a036-46f5-b112-fb2f4cc087b2.png)
