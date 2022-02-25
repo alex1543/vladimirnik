@@ -1,5 +1,6 @@
 # vladimirnik
 Personal Page Vladimir Nikitin
+
 Простой сайт для изучения технологий: PHP, HTML5 и CSS 3.0.
 
 Редактирование страниц:
@@ -17,3 +18,6 @@ Personal Page Vladimir Nikitin
 Типовая страница:
 
 ![image](https://user-images.githubusercontent.com/10297748/155694653-a4f25932-8cad-498a-9fc6-f28ee98495dd.png)
+
+В итоге, это - простой сайт для изучения технологий: PHP, HTML5 и CSS 3.0.
+Сайт гарантированно работает с БД 10.3.16-MariaDB, Apache/2.4.39 (Win64) OpenSSL/1.1.1c PHP/7.3.6 с панелью управления XAMPP v. 3.2.4.
