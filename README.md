@@ -13,3 +13,7 @@ Personal Page Vladimir Nikitin
 Главная страница сайта:
 
 ![image](https://user-images.githubusercontent.com/10297748/155694345-35dc6442-a036-46f5-b112-fb2f4cc087b2.png)
+
+Типовая страница:
+
+![image](https://user-images.githubusercontent.com/10297748/155694653-a4f25932-8cad-498a-9fc6-f28ee98495dd.png)
